@@ -47,3 +47,6 @@ pip install pytesseract python-docx PyMuPDF pdf2image
 
 # Install antiword for DOC file conversion
 !apt-get install antiword
+
+# Install Poppler
+Install poppler from https://github.com/oschwartz10612/poppler-windows/releases/tag/v24.02.0-0
