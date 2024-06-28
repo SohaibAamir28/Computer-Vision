@@ -1,27 +1,21 @@
 <h1 align="center"><b>Part-2 OCR Data Extraction</b> + <b>CV Parsing Module using OCR and AI</b></h1>
 
-# Project CV Image
+# Project CV PDF
 
 <p align="center">
-  <img src="https://www.misha.wtf/_next/image?url=%2Fblog%2Fsupabase-auth-next-13-pkce%2Fcover.png&w=640&q=100" alt="Banner image" />
-</p>
-
-# Project CV Image
-
-<p align="center">
-  <img src="https://www.misha.wtf/_next/image?url=%2Fblog%2Fsupabase-auth-next-13-pkce%2Fcover.png&w=640&q=100" alt="Banner image" />
+  <img src="https://github.com/SohaibAamir28/Computer-Vision/blob/main/Assignment-1/output/cv.PNG" alt="Banner image" />
 </p>
 
 # Project PDF CV to machine-readable text
 
 <p align="center">
-  <img src="https://www.misha.wtf/_next/image?url=%2Fblog%2Fsupabase-auth-next-13-pkce%2Fcover.png&w=640&q=100" alt="Banner image" />
+  <img src="https://github.com/SohaibAamir28/Computer-Vision/blob/main/Assignment-1/output/1.PNG" alt="Banner image" />
 </p>
 
 # Project DOCX CV  into machine-readable text
 
 <p align="center">
-  <img src="https://www.misha.wtf/_next/image?url=%2Fblog%2Fsupabase-auth-next-13-pkce%2Fcover.png&w=640&q=100" alt="Banner image" />
+  <img src="https://github.com/SohaibAamir28/Computer-Vision/blob/main/Assignment-1/output/2.PNG" alt="Banner image" />
 </p>
 
 # Computer-Vision Alpha Project
