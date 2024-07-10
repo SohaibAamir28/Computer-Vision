@@ -1,0 +1,6 @@
+Flask
+opencv-python
+numpy
+keras-facenet
+mtcnn
+scikit-learn
